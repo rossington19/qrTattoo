@@ -5,8 +5,15 @@
     <meta http-equiv="Expires" content="0">
 </head>
 <footer>
-  <script src=@string.Format("index.js?v={0}", DateTime.Now.Ticks)></script>
+  <!-- <script src="index.js?v=2"></script> -->
 
+<script id="myScript"></script>
+
+<script>
+  var url="index.js?t=";
+  var randomNum = String((Math.floor(Math.random() * 200000000000000)));
+  document.getElementById('myScript').src = url+randomNum;
+</script>
 
 
 </footer>
