@@ -1,1 +1,1 @@
-window.location.href = "https://www.amazon.co.uk/ref=nav_logo";
+window.location.href = "https://www.youtube.com/watch?v=ucnAz1yQ8tM";
