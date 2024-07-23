@@ -1,1 +1,1 @@
-window.location.href = "https://maps.app.goo.gl/9SPyx4T2oVst2NkaA";
+window.location.href = "https://www.youtube.com/watch?v=4kZhxEkIe34";
